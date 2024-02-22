@@ -35,7 +35,7 @@ folder_destinations = {
     'jpg': '/Users/yourname/Pictures',
     'png': '/Users/yourname/Pictures',
     'heic': '/Users/yourname/Pictures',
-    'gif': '/Users/yourname/
+    'gif': '/Users/yourname/Pictures',
     'pdf': '/Users/yourname/Documents',
     'docx': '/Users/yourname/Documents',
 }
